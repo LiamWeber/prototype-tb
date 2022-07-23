@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prototype-tb/static/css/main.e24e0f35.css",
+    "main.js": "/prototype-tb/static/js/main.c47c5cab.js",
+    "index.html": "/prototype-tb/index.html",
+    "main.e24e0f35.css.map": "/prototype-tb/static/css/main.e24e0f35.css.map",
+    "main.c47c5cab.js.map": "/prototype-tb/static/js/main.c47c5cab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e24e0f35.css",
+    "static/js/main.c47c5cab.js"
+  ]
+}
