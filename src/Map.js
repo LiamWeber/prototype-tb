@@ -1,5 +1,5 @@
 import React from 'react';
-import mapboxgl from 'mapbox-gl';
+import mapboxgl from '!mapbox-gl';
 import MapboxDraw from "@mapbox/mapbox-gl-draw";
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiemFybWFzb2V1cmV0dGUiLCJhIjoiY2thZmRxcjN3MDNmYTJ1cThicXNoMHg0bSJ9.B2qltnoj3tDA3pHPSmSWnQ';
